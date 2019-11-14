@@ -11,10 +11,10 @@ Using Node.js
   3. Install lodash
       npm install lodash
   4. In terminal and navigate to project directory.
-    - Navigate To server folder
-    - run node index.js
-    - leave this running, client will not work with thiss off.
+    * Navigate To server folder
+    * run node index.js
+    * leave this running, client will not work with thiss off.
   5. Open up the project directory in finder
-    - Navigate to client folder.
-    - Open index.html and enjoy!
+    * Navigate to client folder.
+    * Open index.html and enjoy!
   
