@@ -13,7 +13,7 @@ Using Node.js
   4. In terminal and navigate to project directory.
      * Navigate To server folder
      * run node index.js
-     * leave this running, client will not work with thiss off.
+     * leave this running, client will not work with this off.
   5. Open up the project directory in finder
      * Navigate to client folder.
      * Open index.html in your browser and enjoy!
